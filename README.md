@@ -6,7 +6,7 @@ There`s two type
 
 one for 1 image and the other for multi images 
 multi images needs patched images
-The Image patching code is preprocess.py.
+The Image patching code is resize_patch.ipynb.
 
 There is no specific execution command for the code, but you can change the dir and execute it yourself.
 
